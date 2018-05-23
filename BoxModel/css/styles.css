@@ -1,0 +1,68 @@
+title {
+  text-align: center;
+}
+body {
+  background-image: url("../img/bg.png");
+  background-repeat: repeat;
+}
+
+div.aboutme {
+  margin: 0 auto;
+  width: 600px;
+  color: white;
+  text-align: center;
+  text-overflow: clip;
+  font-family: 'Sunflower', sans-serif;
+}
+
+div.blog_container {
+  margin: 0 auto;
+  width: 900px;
+}
+
+div.blogpost1 {
+  margin: 25px 25px 25px 25px;
+  padding: 25px 25px 25px 25px;
+  background-color: #cfeaef;
+  border: solid 0.2em;
+  border-color: black;
+}
+div.blogpost2 {
+  margin: 25px 25px 25px 25px;
+  padding: 25px 25px 25px 25px;
+  background-color: #cfeaef;
+  border: solid 0.2em;
+  border-color: black;
+}
+
+div.blogpost3 {
+  margin: 25px 25px 25px 25px;
+  padding: 25px 25px 25px 25px;
+  background-color: #cfeaef;
+  border: solid 0.2em;
+  border-color: black;
+}
+div.blogpost4 {
+  margin: 25px 25px 25px 25px;
+  padding: 25px 25px 25px 25px;
+  background-color: #cfeaef;
+  border: solid 0.2em;
+  border-color: black;
+}
+
+div.blogpost5 {
+  margin: 25px 25px 25px 25px;
+  padding: 25px 25px 25px 25px;
+  background-color: #cfeaef;
+  border: solid 0.2em;
+  border-color: black;
+}
+
+span.fancy {
+  font-weight: bold;
+}
+
+span.welcome {
+  text-shadow: 5px 5px 5px red;
+  text-align: center;
+}
